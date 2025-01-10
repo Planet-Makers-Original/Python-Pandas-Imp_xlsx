@@ -4,7 +4,7 @@
 
 ## Python-Pandas-Imp_xlsx
 <h2 align="center">
-  <img src="./src/assets/image/planilhas">
+  <img src="./src/assets/image/planilhas.png">
 </h2>
 
 ### Descrição:
